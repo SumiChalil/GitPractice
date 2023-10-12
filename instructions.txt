@@ -1,2 +1,2 @@
-Instructions for Deoploying this site
+Instructions for Deoploying this site in server
 ----------------------------------------
