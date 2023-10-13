@@ -1,2 +1,4 @@
 Instructions for Deoploying this site in server
 ----------------------------------------
+Troubleshooting
+-----------------
